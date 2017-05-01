@@ -10,7 +10,7 @@ h2 {
 }
 
 nav {
-    background-color: #896bb3;
+    background-color: #478dd6;
     box-shadow: none;
 }
 
@@ -23,7 +23,7 @@ nav ul li a {
 }
 
 nav ul li a, nav .brand-logo span {
-    color: #d6c5ec;
+    color: #5fbcec;
 }
 
 nav ul li.active, nav ul li:hover {
@@ -36,7 +36,7 @@ nav ul li.active, nav ul li:hover {
 
 #mobile-nav li a {
     font-size: 1.3rem;
-    color: #906fbc;
+    color: #3671bc;
 }
 
 #mobile-nav li.active a {
@@ -73,7 +73,7 @@ nav ul li.active, nav ul li:hover {
 
 .search-bar .input-field input ~ .material-icons, .search-bar .input-field input:focus ~ .material-icons {
     top: 0.5rem;
-    color: #896bb3;
+    color: #478dd6;
 }
 
 ::-webkit-input-placeholder {
@@ -161,7 +161,7 @@ nav ul li.active, nav ul li:hover {
 }
 
 .gif-detail .meta h4 {
-    color: #896bb3;
+    color: #0e78b3;
     font-size: 1.5rem;
     margin-bottom: 0.6rem;
     margin-top: 0.2rem;
@@ -184,14 +184,14 @@ nav ul li.active, nav ul li:hover {
 }
 
 .share .btn {
-    background-color: #896bb3;
+    background-color: #0e78b3;
     box-shadow: none;
     text-transform: none;
     color: #fefefe;
 }
 
 .share span {
-    color: #896bb3;
+    color: #0e78b3;
     line-height: 36px;
 }
 
@@ -259,7 +259,7 @@ nav ul li.active, nav ul li:hover {
 }
 
 .actions a, .actions button {
-    color: #b8a6d1;
+    color: #5fbcec;
 }
 
 .delete .button[type=submit] {
@@ -322,7 +322,7 @@ i[data-close] {
 }
 
 h2 {
-    color: #886ab2;
+    color: #0e78b3;
 }
 
 .gifs.container h2 {
@@ -332,13 +332,13 @@ h2 {
 }
 
 .categories .row:first-child * {
-    color: #886ab2;
+    color: #0e78b3;
 }
 
 .categories .row:first-child > .col > a {
     font-size: 3rem;
     line-height: 3rem;
-    color: #886ab2;
+    color: #0e78b3;
     font-family: roboto;
     font-weight: 200;
     margin: -6px;
@@ -484,7 +484,7 @@ input[type=text]:focus:not([readonly]) {
 }
 
 .button[type=submit] {
-    background: #896bb3;
+    background: #478dd6;
     color: #fefefe;
 }
 
@@ -525,7 +525,7 @@ input[type=file] {
 }
 
 label.button {
-    background: #896bb3;
+    background: #478dd6;
     color: #fefefe;
     padding: 1rem 1.4rem;
     float: right;
@@ -535,7 +535,7 @@ label.button {
 .file-wrapper .placeholder {
     display: inline-block;
     padding: 1rem;
-    color: #886ab2;
+    color: #478dd6;
     font-size: 1.2rem;
 }
 
