@@ -22,9 +22,6 @@ public class CategoryDaoImpl implements CategoryDao {
         // Open a session
         Session session = sessionFactory.openSession();
 
-        // DEPRECATED as of Hibernate 5.2.0
-        // List<Category> categories = session.createCriteria(Category.class).list();
-
         // Create CriteriaBuilder
         CriteriaBuilder builder = session.getCriteriaBuilder();
 
